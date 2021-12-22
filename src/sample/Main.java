@@ -15,7 +15,7 @@ public class Main extends Application {
     private TeacherController teacherController = new TeacherController();
     private AdminController adminController = new AdminController();
 
-    
+
 
     @Override
     public void start(Stage primaryStage) throws Exception{
